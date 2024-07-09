@@ -1,0 +1,22 @@
+* {
+  body {
+    margin: 0;
+    padding: 0;
+    background: #f8eedd;
+
+    -webkit-tap-highlight-color: transparent;
+    overflow-x: hidden;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:visited {
+    color: #131415;
+  }
+  li {
+    list-style: none;
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
