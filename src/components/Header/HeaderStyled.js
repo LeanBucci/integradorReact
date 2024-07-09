@@ -9,6 +9,7 @@ export const Header = styled.section`
   margin: 0 auto;
   height: 80px;
   border-bottom: 1px solid #e5e5e5;
+  padding: 20px;
 `;
 export const Logo = styled.div`
   max-width: 80px;
