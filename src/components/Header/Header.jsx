@@ -5,7 +5,7 @@ function Header() {
     <>
       <s.Header>
         <s.Logo>
-          <img src="./public/Logo1.jpg" alt="logo" />
+          <img src="/img/Logo1.jpg" alt="logo" />
         </s.Logo>
         <s.Title>
           <a href="#">
